@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Pooja Dagadkhair  
 
-<!--
-**PoojaDagadkhair/PoojaDagadkhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Business Intelligence Enthusiast | Turning Data into Decisions  
 
-Here are some ideas to get you started:
+🌍 Dubai, UAE  
+📈 Focused on business-driven analytics & dashboards  
+🤝 Open to Data Analyst / BI Analyst opportunities  
+⚡ I enjoy transforming messy datasets into meaningful insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🚀 About Me  
+
+I am an aspiring **Data Analyst** with a strong interest in **data analysis, visualization, and business intelligence**.  
+My goal is to help organizations make **data-driven decisions** through clear insights, dashboards, and reports.
+I am currently building **real-world projects** using SQL, Python, Power BI, Tableau, and Excel — aligned with real business problems and KPIs.
+
+---
+
+### 🛠️ Skills & Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+Pooja's GitHub Stats (https://github.com/PoojaDagadkhair)
+
+### 💻 Languages I Work With  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## 🌐 Connect With Me  
+
+📫 Email: **poojadagadkhair6@gmail.com**  
+💼 LinkedIn: **(https://www.linkedin.com/in/poojadkhair/)**  
+📁 Portfolio: **Your Portfolio URL**
+
+---
+
+✨ *“Data becomes powerful when it is understood — my role is to make insights clear, simple, and actionable.”*
