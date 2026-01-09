@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | Business Intelligence Enthusiast | Turning Data into Decisions  
 
-🌍 Dubai, UAE  
+🌍 Dubai, United Arab Emirates  
 📈 Focused on business-driven analytics & dashboards  
 🤝 Open to Data Analyst / BI Analyst opportunities  
 ⚡ I enjoy transforming messy datasets into meaningful insights  
